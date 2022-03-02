@@ -1,0 +1,44 @@
+header {
+	background-color: #d3d3d3;
+	height: 100px;
+	text-align: center;
+	font-size: 19px;
+  display: flex;
+  justify-content: center;
+  align-content: center;
+}
+
+body {
+	background-color: #000000;
+	color: #d17dff;
+}
+
+table {
+  margin-top: 5px;
+	margin-bottom: 5px;
+  display: flex;
+  justify-content: center;
+  align-content: center;
+}
+
+table, th, td {
+  border: 2px solid;
+  text-align: left;
+  vertical-align: center;
+}
+th {
+  min-width: 100px;
+}
+
+p {
+	color: #ffffff;
+}
+
+a[href] {
+	color: #fff454
+}
+
+footer {
+	height: 100px;
+	clear: both;
+}
