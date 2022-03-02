@@ -27,11 +27,6 @@ table {
   padding: 10px;
 }
 
-#attr {
-	vertical-align: bottom;
-	padding-bottom: 25px;
-}
-
 tr:nth-child(even) {
 	background-color: #3e3742;
 }
@@ -39,7 +34,8 @@ tr:nth-child(even) {
 th, td {
 	padding: 5px;
   text-align: left;
-  vertical-align: top;
+  vertical-align: bottom;
+	padding-bottom: 10px;
 	width: 100%;
 }
 
