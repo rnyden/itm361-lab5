@@ -8,6 +8,10 @@ header {
   display: flex;
   justify-content: center;
   align-content: center;
+	border: 2px solid  #fff454;
+	border-radius: 5px;
+	margin-right: 200px;
+	margin-left: 200px;
 }
 
 body {
@@ -48,6 +52,7 @@ a[href] {
 }
 
 footer {
+	margin-top: 50px;
 	height: 100px;
 	clear: both;
 }
