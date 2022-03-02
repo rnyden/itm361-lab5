@@ -27,6 +27,10 @@ table {
   padding: 10px;
 }
 
+#attr {
+	vertical-align: bottom;
+	padding-bottom: 25px;
+}
 
 tr:nth-child(even) {
 	background-color: #3e3742;
