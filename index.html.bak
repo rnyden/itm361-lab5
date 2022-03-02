@@ -15,10 +15,10 @@
   <table>
     <tr>
 		  <td>Attributes</td>
-      <td>Mercury <img src="img/mercury.jpg" alt="Mercury"/></td>								
-	    <td>Venus <img src="img/venus.jpg" alt="Venus"/></td>
-		  <td>Uranus <img src="img/uranus.jpg" alt="Uranus"/></td>
-		  <td>Neptune <img src="img/neptune.jpg" alt="Neptune"/></td>
+      <td>Mercury</td>								
+	    <td>Venus</td>
+		  <td>Uranus</td>
+		  <td>Neptune</td>
     </tr>
     <tr>
       <td>Mass (kg)</td>
